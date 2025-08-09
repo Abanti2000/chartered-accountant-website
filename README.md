@@ -43,7 +43,8 @@ A modern, professional website for chartered accountant services built with Next
 
 1. **Clone the repository**
   
-   git clone https://github.com/yourusername/chartered-accountant-website.git
+   git clone https://github.com/Abanti2000/chartered-accountant-website.git
+
    cd chartered-accountant-website
    
 
@@ -236,7 +237,7 @@ A modern, professional website for chartered accountant services built with Next
 - **Description**: Verify contact information display
 - **Steps**:
   1. Check contact card displays address (123, Financial Square, New Delhi)
-  2. Verify phone (+1 (555) 123-4567) and email (Nirmal@financeexpert.com)
+  2. Verify phone (+91 96503 16607) and email (booklynkservices@gmail.com)
   3. Test business hours display (Monday-Friday: 9:00-18:00, Saturday: 10:00-14:00)
 - **Expected Result**: Contact information displays correctly
 - **Status**: ✅ Pass
@@ -559,9 +560,9 @@ module.exports = {
 ## 📞 Support
 
 For support and questions:
-- **Email**:booklynkservices@gmail.com
+- **Email**: booklynkservices@gmail.com
 
-- **Phone**:+91 96503 16607
+- **Phone**: +91 96503 16607
 - **Address**: 123, Financial Square, Suite 456, New Delhi 110001
 
 
