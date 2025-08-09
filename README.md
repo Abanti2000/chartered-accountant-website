@@ -559,8 +559,9 @@ module.exports = {
 ## 📞 Support
 
 For support and questions:
-- **Email**: Nirmal@financeexpert.com
-- **Phone**: +1 (555) 123-4567
+- **Email**:booklynkservices@gmail.com
+
+- **Phone**:+91 96503 16607
 - **Address**: 123, Financial Square, Suite 456, New Delhi 110001
 
 

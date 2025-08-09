@@ -447,11 +447,12 @@ const [menuOpen, setMenuOpen] = useState(false);
               <div className="flex items-center space-x-6">
                 <div className="flex items-center space-x-2">
                   <Phone className="h-5 w-5 text-orange-500" />
-                  <span className="text-gray-700">(555) 123-4567</span>
+                  <span className="text-gray-700">+91 96503 16607</span>
                 </div>
                 <div className="flex items-center space-x-2">
                   <Mail className="h-5 w-5 text-orange-500" />
-                  <span className="text-gray-700">Nirmal@financeexpert.com</span>
+                  <span className="text-gray-700">booklynkservices@gmail.com
+</span>
                 </div>
               </div>
             </div>
@@ -805,8 +806,8 @@ const [menuOpen, setMenuOpen] = useState(false);
                 </p>
                 <h3 className="text-2xl font-bold text-orange-500 mb-6">Contact</h3>
                 <div className="space-y-4 mb-8">
-                  <div>Phone : +1 (555) 123-4567</div>
-                  <div>Email : Nirmal@financeexpert.com</div>
+                  <div>Phone :+91 96503 16607</div>
+                  <div>Email : booklynkservices@gmail.com</div>
                 </div>
                 <h3 className="text-2xl font-bold text-orange-500 mb-6">Time</h3>
                 <div className="space-y-2 text-gray-300">
@@ -1054,7 +1055,7 @@ const [menuOpen, setMenuOpen] = useState(false);
             <div className="mt-6">
               <div className="text-orange-500 text-sm mb-2">Your Success, My Priority</div>
               <div className="text-2xl font-bold text-gray-900">Available 24/7</div>
-              <div className="text-gray-600">(555) 123-4567</div>
+              <div className="text-gray-600">+91 96503 16607</div>
             </div>
           </div>
         </div>
@@ -1095,23 +1096,45 @@ const [menuOpen, setMenuOpen] = useState(false);
                 Professional chartered accountant services helping businesses achieve financial success and regulatory
                 compliance.
               </p>
-              <div className="flex space-x-4">
-                <div className="w-10 h-10 bg-orange-500 rounded-full flex items-center justify-center hover:bg-orange-600 transition-colors cursor-pointer">
-                  <Facebook className="h-5 w-5 text-white" />
-                </div>
-                <div className="w-10 h-10 bg-orange-500 rounded-full flex items-center justify-center hover:bg-orange-600 transition-colors cursor-pointer">
-                  <Youtube className="h-5 w-5 text-white" />
-                </div>
-                <div className="w-10 h-10 bg-orange-500 rounded-full flex items-center justify-center hover:bg-orange-600 transition-colors cursor-pointer">
-                  <Twitter className="h-5 w-5 text-white" />
-                </div>
-                <div className="w-10 h-10 bg-orange-500 rounded-full flex items-center justify-center hover:bg-orange-600 transition-colors cursor-pointer">
-                  <Linkedin className="h-5 w-5 text-white" />
-                </div>
-                <div className="w-10 h-10 bg-orange-500 rounded-full flex items-center justify-center hover:bg-orange-600 transition-colors cursor-pointer">
-                  <Instagram className="h-5 w-5 text-white" />
-                </div>
-              </div>
+             
+ <div className="flex space-x-4">
+  <a
+    href="https://www.facebook.com/profile.php?id=61574782382680"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="w-10 h-10 bg-orange-500 rounded-full flex items-center justify-center hover:bg-orange-600 transition-colors cursor-pointer"
+  >
+    <Facebook className="h-5 w-5 text-white" />
+  </a>
+
+  <a
+    href="https://www.youtube.com/@BooklynkServices"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="w-10 h-10 bg-orange-500 rounded-full flex items-center justify-center hover:bg-orange-600 transition-colors cursor-pointer"
+  >
+    <Youtube className="h-5 w-5 text-white" />
+  </a>
+
+  <a
+    href="https://x.com/booklynkservice"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="w-10 h-10 bg-orange-500 rounded-full flex items-center justify-center hover:bg-orange-600 transition-colors cursor-pointer"
+  >
+    <Twitter className="h-5 w-5 text-white" />
+  </a>
+
+  <a
+    href="https://www.instagram.com/book.lynk/"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="w-10 h-10 bg-orange-500 rounded-full flex items-center justify-center hover:bg-orange-600 transition-colors cursor-pointer"
+  >
+    <Instagram className="h-5 w-5 text-white" />
+  </a>
+</div>
+
             </div>
             <div>
               <h3 className="font-bold text-lg mb-6 text-orange-500">Navigation</h3>
@@ -1160,9 +1183,10 @@ const [menuOpen, setMenuOpen] = useState(false);
             <div>
               <h3 className="font-bold text-lg mb-6 text-orange-500">Contact</h3>
               <ul className="space-y-3 text-gray-600">
-                <li>+0123-456-789</li>
-                <li>www.financeexpert.com</li>
-                <li>Nirmal@financeexpert.com</li>
+                <li>+91 96503 16607</li>
+                <li>https://booklynkservices.com</li>
+                <li>booklynkservices@gmail.com
+</li>
                 <li>
                   123, Financial Square,
                   <br />

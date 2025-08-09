@@ -14,6 +14,11 @@ import {
   CreditCard,
   BarChart3,
   ArrowLeft,
+  Facebook,
+   Twitter,
+   Instagram,
+   Youtube,
+   
 } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
@@ -286,6 +291,51 @@ export default function PricingPlanPage() {
                 Professional chartered accountant services helping businesses achieve financial success and regulatory
                 compliance.
               </p>
+
+
+
+
+
+
+               <div className="flex space-x-4">
+  <a
+    href="https://www.facebook.com/profile.php?id=61574782382680"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="w-10 h-10 bg-orange-500 rounded-full flex items-center justify-center hover:bg-orange-600 transition-colors cursor-pointer"
+  >
+    <Facebook className="h-5 w-5 text-white" />
+  </a>
+
+  <a
+    href="https://www.youtube.com/@BooklynkServices"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="w-10 h-10 bg-orange-500 rounded-full flex items-center justify-center hover:bg-orange-600 transition-colors cursor-pointer"
+  >
+    <Youtube className="h-5 w-5 text-white" />
+  </a>
+
+  <a
+    href="https://x.com/booklynkservice"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="w-10 h-10 bg-orange-500 rounded-full flex items-center justify-center hover:bg-orange-600 transition-colors cursor-pointer"
+  >
+    <Twitter className="h-5 w-5 text-white" />
+  </a>
+
+  <a
+    href="https://www.instagram.com/book.lynk/"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="w-10 h-10 bg-orange-500 rounded-full flex items-center justify-center hover:bg-orange-600 transition-colors cursor-pointer"
+  >
+    <Instagram className="h-5 w-5 text-white" />
+  </a>
+</div>
+
+            
             </div>
             <div>
               <h3 className="font-bold text-lg mb-6 text-orange-500">Navigation</h3>
@@ -325,9 +375,9 @@ export default function PricingPlanPage() {
             <div>
               <h3 className="font-bold text-lg mb-6 text-orange-500">Contact</h3>
               <ul className="space-y-3 text-gray-600">
-                <li>+0123-456-789</li>
-                <li>www.financeexpert.com</li>
-                <li>Nirmal@financeexpert.com</li>
+                <li>+91 96503 16607</li>
+                <li>https://booklynkservices.com</li>
+                <li>booklynkservices@gmail.com</li>
                 <li>
                   123, Financial Square,
                   <br />
